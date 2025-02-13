@@ -43,7 +43,7 @@ React:\
 `npm install`\
 `npm start`
 
-.ENV:
+.ENV:\
 add your openAI API key in .env file
 
 
