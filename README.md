@@ -39,6 +39,8 @@ Flask:\
 `flask --app app.src.run --debug run`
 
 React('npm install -g create-react-app' if you do not have React):\
+`cd client`\
+`npm install`\
 `npm start`
 
 
