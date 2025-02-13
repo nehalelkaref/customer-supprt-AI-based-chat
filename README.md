@@ -38,7 +38,7 @@ consumer.py that listens in on _Assistance Queue_ on behalf of celery:\
 Flask:\
 `flask --app app.src.run --debug run`
 
-React(`npm install -g create-react-app` if you do not have React):\
+React:\
 `cd client`\
 `npm install`\
 `npm start`
