@@ -10,9 +10,6 @@ function App() {
   const [ messages, setMessages ] = useState(
     [{'sender':'Bot',
       'content':'Hello this is Bot! What can I help you with?'
-    },
-    { 'sender':'User',
-      'content':'I have a problem with Git merges'
     }]);
 
   const [ inputBox, setInputBox ] = useState('')
